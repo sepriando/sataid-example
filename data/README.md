@@ -1,1 +1,1 @@
-Buat folder data
+Sataid Data Sample
